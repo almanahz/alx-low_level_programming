@@ -1,6 +1,6 @@
 /*
  * File: 2-print_alphabet.c
- * Auth: Abdulqudus Abdulsalam 
+ * Auth: Abdulqudus Abdulsalam
  */
 
 #include <stdio.h>
