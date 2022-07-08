@@ -1,4 +1,4 @@
-#inlcude <stdio.h>
+#include <stdio.h>
 #include "main.h"
 /**
  * print_triangle - print a triangle
