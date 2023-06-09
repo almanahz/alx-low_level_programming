@@ -1,4 +1,4 @@
-#include "header.h"
+#include "hash_tables.h"
 /*
 descprition: A function to create a hash table
 @size: number of nodes to make in the new has table
