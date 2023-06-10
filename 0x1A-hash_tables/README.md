@@ -9,4 +9,3 @@ General
     What is a collision and what are the main ways of dealing with collisions in the context of a hash table
     What are the advantages and drawbacks of using hash tables
     What are the most common use cases of hash tables
-
